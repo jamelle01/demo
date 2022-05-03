@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello this the demo for git and github. I've edit this file.
-=======
-hello this the demo for git and github.
-hello this is the file from second branch that will be merge in the master branch
->>>>>>> 81b5652d05961c500179d10a49396416b88e587a
+I've delete all text and add this sentence.
